@@ -8,6 +8,8 @@
 .buildlog/
 .history
 .svn/
+links_curso_flutter.rtf
+lib/api.dart
 
 # IntelliJ related
 *.iml
